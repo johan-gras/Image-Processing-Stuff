@@ -8,6 +8,4 @@ The final part of the project was the implementation of *a multi-criteria tracki
 
 Project description : [Website](https://johan-gras.github.io/projects/indoortracking/)
 
-<div style="text-align: center;">
-	<video src="video.mp4" autoplay controls loop>Indoor Tracking Video</video>
-</div>
+![Indoor Tracking Video](video.mp4 "Indoor Tracking Video")
