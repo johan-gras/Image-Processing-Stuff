@@ -8,4 +8,4 @@ The final part of the project was the implementation of *a multi-criteria tracki
 
 Project description : [Website](https://johan-gras.github.io/projects/indoortracking/)
 
-![Indoor Tracking Video](video.mp4 "Indoor Tracking Video")
+![Indoor Tracking Video](video.gif "Indoor Tracking Video")
